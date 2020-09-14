@@ -30,6 +30,7 @@
 
 ### Intermediate:
 1. *args **kwargs
+1. Regular Expressions - RegEx
 1. Namespace  
 1. Scope  
 1. Object Oriented Programming  
@@ -38,7 +39,7 @@
 1. Modules Imports + Creation  
 1. pip - Install Modules and Packages  
 1. Virtual Environments  
-1. Standard library - Collections, .. modules  
+1. Standard library - Collections, itertools, requests. etc. modules  
 1. Data Structures (Computer Science)  
 
 ### Advance:
